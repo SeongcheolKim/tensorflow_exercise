@@ -1,1 +1,1 @@
-# word2vec practice
+# tensorflow practice with google colab
